@@ -13,6 +13,7 @@
     "baidu-aip-sdk": "^2.3.3",
     "express": "^4.16.4",
     "fluent-ffmpeg": "^2.1.2",
-    "multiparty": "^4.2.1"
+    "multiparty": "^4.2.1",
+    "request": "^2.88.0"
   }
 }
